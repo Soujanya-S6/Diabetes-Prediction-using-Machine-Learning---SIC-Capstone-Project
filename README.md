@@ -14,6 +14,6 @@ This project employs machine learning algorithms to analyze health metrics from 
 The dataset used for this project is the Pima Indians Diabetes Database, which is publicly available and contains various health metrics such as glucose levels, BMI, blood pressure, etc., along with the diabetes status of individuals. This dataset has been widely used in machine learning research for predicting diabetes onset.
 <br>
 <h2>Contributors</h2>
-*Lakshmi J
-*Likith Abhilash C
-*Soujanya S
+* Lakshmi J
+* Likith Abhilash C
+* Soujanya S

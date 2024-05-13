@@ -15,4 +15,5 @@ The dataset used for this project is the Pima Indians Diabetes Database, which i
 ## Contributors
 - Lakshmi J
 - Likith Abhilash C
+- Neha Sathish
 - Soujanya S
